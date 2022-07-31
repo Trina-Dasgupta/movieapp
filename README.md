@@ -1,6 +1,7 @@
 # Getting Started with Create React App
+#Demo:https://movie-imdb-rating.herokuapp.com/
 
-API Used: https://www.themoviedb.org/(The Movie Database)
+API Used: https://www.themoviedb.org/ (The Movie Database)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
